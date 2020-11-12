@@ -2,7 +2,7 @@
 
 
 
-          姓名：张孟天					学号：517030910387
+          姓名：					学号：
 
 #### Experimental environment 
 
